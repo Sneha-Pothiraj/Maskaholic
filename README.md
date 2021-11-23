@@ -40,7 +40,7 @@ $ pip3 install -r requirements.txt
 # Working
 1. Open terminal. Go into the cloned project directory and type the following command:
 ```
-$ python3 Training.py --dataset dataset
+$ python3 Training.py
 ```
 
 2. To detect face masks in real-time video streams type the following command:
